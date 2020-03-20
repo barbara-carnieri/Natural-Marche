@@ -2,11 +2,14 @@
   --mainBlue:#2a2a72;
   --lightBlue:#009ffd;
   --mainWhite:#f3f3f3;
+  --plainWhite:#fff;
   --mainDark:#232528;
   --mainYellow:#ffa400;
   --lightYellow:#ffc547;
   --lightGreen:#5cb311;
   --babyGreen:#c1e7a0;
+  padding: 0;
+  margin: 0;
 }
 
 body {
@@ -15,10 +18,18 @@ body {
   color: var(--mainDark) !important;
 }
 
-.text-title {
-  font-family: 'Merriweather Sans', cursive;
-  letter-spacing: 0.3rem;
+.text-title-lg {
+  font-family: 'Shadows Into Light', cursive;
+  letter-spacing: 0.1rem;
   text-transform: uppercase;
+  font-size: 2.5rem;
+}
+
+.text-title-sm {
+  font-family: 'Shadows Into Light', cursive;
+  letter-spacing: 0.1rem;
+  text-transform: uppercase;
+  font-size: 1.2rem;
 }
 
 .text-blue {

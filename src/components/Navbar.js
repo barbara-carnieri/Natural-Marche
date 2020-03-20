@@ -11,7 +11,7 @@ export default class Navbar extends Component {
   render() {
     return (
       <NavWrapper className='navbar navbar-expand-sm bg-warning navbar-dark px-sm-5'>
-        <Link to='/home'>
+        <Link to='/'>
           <img src={logo} width="50" height="60" alt='homelogo' className='navbar-brand' />
         </Link>
         <ul className='navbar-nav align-items-center'>
