@@ -1,110 +1,206 @@
 export const storeProducts = [
   {
     id: 1,
-    title: "Google Pixel-Black",
-    img: "images/product-1.png",
-    price: 10,
-    company: "GOOGLE",
+    title: "Brown eggs",
+    img: "images/product-1.jpg",
+    price: 3.50,
+    company: "dairy",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Raw organic brown eggs in a basket.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 2,
-    title: "Samsung S7",
-    img: "images/product-2.png",
-    price: 16,
-    company: "SAMSUNG",
+    title: "Sweet fresh stawberry",
+    img: "images/product-2.jpg",
+    price: 4.70,
+    company: "fruit",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Sweet fresh stawberry on the wooden table.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 3,
-    title: "HTC 10 - Black",
-    img: "images/product-3.png",
-    price: 8,
-    company: "htc",
+    title: "Asparagus",
+    img: "images/product-3.jpg",
+    price: 3.75,
+    company: "vegetable",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Asparagus with ham on the wooden table.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 4,
-    title: "HTC 10 - White",
-    img: "images/product-4.png",
-    price: 18,
-    company: "htc",
+    title: "Green smoothie",
+    img: "images/product-4.jpg",
+    price: 5.50,
+    company: "dairy",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 5,
-    title: "HTC Desire 626s",
-    img: "images/product-5.png",
-    price: 24,
-    company: "htc",
+    title: "Pesto with basil",
+    img: "images/product-5.jpg",
+    price: 6.40,
+    company: "vegetable",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Italian traditional pesto with basil, chesse and oil.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 6,
-    title: "Vintage Iphone",
-    img: "images/product-6.png",
-    price: 17,
-    company: "apple",
+    title: "Homemade bread",
+    img: "images/product-6.jpg",
+    price: 2.70,
+    company: "bakery",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Homemade bread with seeds and speciaries.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 7,
-    title: "Iphone 7",
-    img: "images/product-7.png",
-    price: 30,
-    company: "apple",
+    title: "Green Beans",
+    img: "images/product-7.jpg",
+    price: 3.80,
+    company: "vegetable",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Raw organic green beans ready to eat.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 8,
-    title: "Smashed Iphone",
-    img: "images/product-8.png",
-    price: 2,
-    company: "apple",
+    title: "Baked stuffed portabello mushrooms",
+    img: "images/product-8.jpg",
+    price: 8.45,
+    company: "vegetable",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Homemade baked stuffed portabello mushrooms with spinach and cheese.",
     inCart: false,
     count: 0,
     total: 0
-  }
+  },
+  {
+    id: 9,
+    title: "Hazelnut Oil",
+    img: "images/product-9.jpg",
+    price: 7.45,
+    company: "oil",
+    info:
+      "Hazelnut oil in black ceramic bowl on old wooden background. Forest wealth. rustic style. selective focus.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 10,
+    title: "Blueberry jelly",
+    img: "images/product-10.jpg",
+    price: 4.65,
+    company: "fruit compote",
+    info:
+      "Homemade organic blueberry jelly in a jar.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 11,
+    title: "Pears Juice",
+    img: "images/product-11.jpg",
+    price: 4.45,
+    company: "fruit",
+    info:
+      "Fresh pears juice on the wooden table.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 12,
+    title: "Fresh Salad",
+    img: "images/product-12.jpg",
+    price: 7.45,
+    company: "vegetable",
+    info:
+      "Homemade healthy salad with tomato mozzarella and basil.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 13,
+    title: "Orange Pack",
+    img: "images/product-13.jpg",
+    price: 6.40,
+    company: "fruit",
+    info:
+      "Fresh oranges. A refreshing summer treat.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 14,
+    title: "Honey",
+    img: "images/product-14.jpg",
+    price: 8.45,
+    company: "bakery",
+    info:
+      "Honey and honeycell on the table.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 15,
+    title: "Ricotta",
+    img: "images/product-15.jpg",
+    price: 3.80,
+    company: "dairy",
+    info:
+      "Ricotta with berry and mint.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 16,
+    title: "Bio Ground beef",
+    img: "images/product-16.jpg",
+    price: 11.45,
+    company: "meat",
+    info:
+      "Raw ground beef meat burger steak cutlets with seasoning on vintage wooden boards, black background.",
+    inCart: false,
+    count: 0,
+    total: 0
+  },
 ];
 
 export const detailProduct = {
   id: 1,
-  title: "Google Pixel - Black",
-  img: "images/product-1.png",
-  price: 10,
-  company: "google",
+  title: "Brown eggs",
+  img: "images/product-1.jpg",
+  price: 3.50,
+  company: "dairy",
   info:
-    "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "Raw organic brown eggs in a basket.",
   inCart: false,
   count: 0,
   total: 0
