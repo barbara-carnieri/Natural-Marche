@@ -85,7 +85,7 @@ export const storeProducts = [
   },
   {
     id: 8,
-    title: "Baked stuffed portabello mushrooms",
+    title: "Stuffed portabello mushrooms",
     img: "images/product-8.jpg",
     price: 8.45,
     company: "vegetable",
