@@ -1,4 +1,4 @@
-## Natural Marché
+# Natural Marché
 
 React Supermarket E-Commerce Project. A natural supermarket where you can buy natural products and make the payment by the Paypal platform.
 HTML, ES6, React, Express, Node.js, HTTP, Paypal REST API.
@@ -46,9 +46,10 @@ storeProducts = {
     count,
     total
   },
+```
 
 ## Components
-
+```
 - SplashPage
 
 - HomePage
@@ -60,6 +61,6 @@ storeProducts = {
 - Navbar
 
 - DefaultPage
-
+```
 
 
