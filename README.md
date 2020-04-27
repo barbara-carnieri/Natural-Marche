@@ -7,7 +7,6 @@ HTML, ES6, React, Express, Node.js, HTTP, Paypal REST API.
 
 Open [https://natural-marche.herokuapp.com/](https://natural-marche.herokuapp.com/) to view it in the browser.
 
-![Natural Marche Demo](https://www.canva.com/design/DAD6Rnm4ZmY/view)
 ![](/public/naturalmarchedemo.png)
 
 ## User Stories
